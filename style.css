@@ -1,0 +1,21 @@
+/* Allgemein */
+body {
+    font-family: 'Taviraj', serif;
+    font-size: 1.6rem;
+    background-color: grey;
+}
+.firered {
+    color: red;
+}
+
+
+/* Navigation */
+.nav-link {
+    cursor: pointer;
+}
+
+.nav-link:active,
+.nav-link:hover,
+.icon-link:hover {
+    color: red !important;
+}
