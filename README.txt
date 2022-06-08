@@ -7,4 +7,4 @@ Ziele sind:
 3. PHP Basics erlernen 
 4. Anbindung einer Datenbank
 
-Stand 08.06.2022
+Stand 08.06.2022 BLa
