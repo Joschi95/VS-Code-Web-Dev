@@ -39,3 +39,10 @@ body {
     background-position: center;
     background-size: cover;
 }
+
+.img-resize {
+    height: auto; 
+    width: auto; 
+    max-width: 900px; 
+    max-height: 900px;
+}
